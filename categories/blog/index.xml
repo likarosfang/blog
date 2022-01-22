@@ -12,16 +12,16 @@
     <lastBuildDate>Sat, 22 Jan 2022 02:30:14 +0800</lastBuildDate><atom:link href="https://likarosfang.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
-      <link>https://likarosfang.github.io/posts/my-first-post/</link>
+      <link>https://likarosfang.github.io/posts/hello_hugo/</link>
       <pubDate>Sat, 22 Jan 2022 02:30:14 +0800</pubDate>
       
-      <guid>https://likarosfang.github.io/posts/my-first-post/</guid>
-      <description>Hello Hugo 
+      <guid>https://likarosfang.github.io/posts/hello_hugo/</guid>
+      <description>Hugo是什么 
 Hugo VS Hexo 在使用Hugo之前，我使用过Hexo，两者都是静态网页，使用markdown编写博文
-   比较 Hugo Hexo     简易程度 :heart::heart::heart::heart::heart: :heart::heart::heart:   主题 :heart::heart::heart: :heart::heart::heart::heart:   美观 :heart::heart::heart: :heart::heart::heart::heart:   中文社区 :heart::heart: :heart::heart::heart::heart:   一句话总结:       追求美观爱折腾用Hexo 返璞归真用Hugo  快速开始 请参考官方文档Quick Start
+   比较 Hugo Hexo     简易程度 ❤️❤️❤️❤️❤️ ❤️❤️❤️   主题 ❤️❤️❤️ ❤️❤️❤️❤️   美观 ❤️❤️❤️ ❤️❤️❤️❤️   中文社区 ❤️❤️ ❤️❤️❤️❤️   一句话总结:       追求美观爱折腾用Hexo 返璞归真用Hugo  快速开始 请参考官方文档Quick Start
 部署 请参考官方文档托管和部署
 补充.gitignore文件
-# Generated files by hugo /public/ /resources/_gen/ /assets/jsconfig.json hugo_stats.json # Executable may be added to repository hugo.exe hugo.</description>
+# Generated files by hugo /public/ /resources/_gen/ /assets/jsconfig.json hugo_stats.json # Executable may be added to repository hugo.exe hugo.darwin hugo.</description>
     </item>
     
   </channel>
