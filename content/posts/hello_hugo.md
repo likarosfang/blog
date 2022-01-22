@@ -17,7 +17,7 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-# Hello Hugo
+# Hugo是什么
 
 [![hugo logo](https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg)](https://gohugo.io/)
 
