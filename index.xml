@@ -9,16 +9,7 @@
       <link>https://likarosfang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Jan 2022 04:09:55 +0800</lastBuildDate><atom:link href="https://likarosfang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>P3</title>
-      <link>https://likarosfang.github.io/posts/p3/</link>
-      <pubDate>Sun, 23 Jan 2022 04:09:55 +0800</pubDate>
-      
-      <guid>https://likarosfang.github.io/posts/p3/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 22 Jan 2022 02:30:14 +0800</lastBuildDate><atom:link href="https://likarosfang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
       <link>https://likarosfang.github.io/posts/hello_hugo/</link>
@@ -30,7 +21,7 @@ Hugo VS Hexo 在使用Hugo之前，我使用过Hexo，两者都是静态网页�
    比较 Hugo Hexo     简易程度 ❤️❤️❤️❤️❤️ ❤️❤️❤️   主题 ❤️❤️❤️ ❤️❤️❤️❤️   美观 ❤️❤️❤️ ❤️❤️❤️❤️   中文社区 ❤️❤️ ❤️❤️❤️❤️   一句话总结:       追求美观爱折腾用Hexo 返璞归真用Hugo  快速开始 请参考官方文档Quick Start
 部署 请参考官方文档托管和部署
 补充.gitignore文件
-# Generated files by hugo /public/ /resources/_gen/ /assets/jsconfig.json hugo_stats.json # Executable may be added to repository hugo.exe hugo.darwin hugo.</description>
+1 2 3 4 5 6 7 8 9 10 11 12 13  # Generated files by hugo /public/ /resources/_gen/ /assets/jsconfig.</description>
     </item>
     
     
