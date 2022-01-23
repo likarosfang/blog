@@ -18,10 +18,11 @@
       <guid>https://likarosfang.github.io/posts/hello_hugo/</guid>
       <description>Hugo是什么 
 Hugo VS Hexo 在使用Hugo之前，我使用过Hexo，两者都是静态网页，使用markdown编写博文
-   比较 Hugo Hexo     简易程度 ❤️❤️❤️❤️❤️ ❤️❤️❤️   主题 ❤️❤️❤️ ❤️❤️❤️❤️   美观 ❤️❤️❤️ ❤️❤️❤️❤️   中文社区 ❤️❤️ ❤️❤️❤️❤️   一句话总结:       追求美观爱折腾用Hexo 返璞归真用Hugo  快速开始 请参考官方文档Quick Start
+   比较 Hugo Hexo     简易程度 ❤️❤️❤️❤️❤️ ❤️❤️❤️   主题 ❤️❤️❤️ ❤️❤️❤️❤️   美观 ❤️❤️❤️ ❤️❤️❤️❤️   中文社区 ❤️❤️ ❤️❤️❤️❤️    一句话总结:
+ 追求美观爱折腾用Hexo 返璞归真用Hugo  快速开始 请参考官方文档Quick Start
 部署 请参考官方文档托管和部署
 补充.gitignore文件
-1 2 3 4 5 6 7 8 9 10 11 12 13  # Generated files by hugo /public/ /resources/_gen/ /assets/jsconfig.</description>
+# Generated files by hugo /public/ /resources/_gen/ /assets/jsconfig.json hugo_stats.json # Executable may be added to repository hugo.exe hugo.darwin hugo.linux # Temporary lock file while building /.</description>
     </item>
     
     
