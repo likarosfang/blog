@@ -9,11 +9,11 @@ categories:
   - "Share"
 
 cover:
-    image: "http://47.94.155.39:888/miku.jpg"
+    image: "https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: "<text>"
+    alt: "<hugo icon>"
+    caption: "<hugo>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
@@ -22,6 +22,7 @@ cover:
 [![hugo logo](https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg)](https://gohugo.io/)
 
 # Hugo VS Hexo
+
 在使用Hugo之前，我使用过[Hexo](https://hexo.io/zh-cn/)，两者都是静态网页，使用markdown编写博文
 比较|Hugo|Hexo|
 ---|:---|:---
@@ -29,18 +30,22 @@ cover:
 主题|:heart::heart::heart:|:heart::heart::heart::heart:
 美观|:heart::heart::heart:|:heart::heart::heart::heart:
 中文社区|:heart::heart:|:heart::heart::heart::heart:
+
 一句话总结:
 - 追求美观爱折腾用Hexo
 - 返璞归真用Hugo
 
 
 # 快速开始
+
 请参考官方文档[**Quick Start**](https://gohugo.io/getting-started/quick-start/)
 
 # 部署
+
 请参考官方文档[**托管和部署**](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 
 补充.gitignore文件
+
 ```
 # Generated files by hugo
 /public/

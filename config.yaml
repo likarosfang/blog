@@ -59,7 +59,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Likarosfang
     subtitle: "Done is better than perfect"
-    imageUrl: "http://47.94.155.39:888/miku.jpg"
+    imageUrl: "https://i.loli.net/2020/06/09/bPYqyETosIdKv5X.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -75,12 +75,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: qq
-      url: "https://bilibili.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: bilibili
+      url: "https://b23.tv/3mUW7i9"
+    - name: twitter
+      url: "https://twitter.com/likarosfang"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/likarosfang"
 
   analytics:
     google:
@@ -129,14 +129,14 @@ menu:
       url: /search/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
-markup:
-    highlight:
-        # anchorLineNos: true
-        codeFences: true
-        guessSyntax: true
-        lineNos: true
-        style: monokai
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
 
 outputs:
     home:
