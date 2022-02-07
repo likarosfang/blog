@@ -2,7 +2,6 @@ baseURL: "https://likarosfang.github.io"
 title: Likarosfang's Blog
 paginate: 5
 theme: PaperMod
-# Copyright: "© Yuanyuan GE 2020"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
